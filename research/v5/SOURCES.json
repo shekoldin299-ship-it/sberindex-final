@@ -1,0 +1,16 @@
+{
+  "data": "national_source.csv",
+  "original_publisher": "СберИндекс",
+  "original_website": "https://sberindex.ru/",
+  "dataset": "Потребительские расходы",
+  "license": "CC BY-SA 4.0",
+  "modification": "Select four monthly Russian spending series through 2024-12; pivot to date,food,nonfood,catering,services. All 292 values exactly match national_source.csv.",
+  "sha256": "738d6a642c2948c6cd1bcfe5f39d83b36a45c4a77682f29576841f720e9135d1",
+  "limitations": "Current-vintage history. Release vintages unavailable. Lag1 primary, lag2 sensitivity are assumptions.",
+  "acquisition": "Official SberIndex CSV export downloaded by project owner and supplied on 2026-10-09; original archive filename: consumer-spending_ru_1791179920804.csv.zip",
+  "official_extract": "research/v5/official_source.csv",
+  "official_extract_sha256": "54766fc2ffd47eab0abcdbc1b7b725695d6bd209a5b48ae4a1314eb3ca8d6290",
+  "original_archive_sha256": "4bffa93fb6adad2111fe4ae2448b09898d7615ee2a2a8d8ac7d71548046ee5ab",
+  "original_csv_sha256": "5c1f8ed24a7f71c8c6da51e60ee9aaefd857ac867f5ef485072786bae26d4916",
+  "verification": "research/v5/SOURCE_VERIFICATION.json"
+}

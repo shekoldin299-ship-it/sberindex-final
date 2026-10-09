@@ -1,0 +1,2162 @@
+[
+  {
+    "origin": 12,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 6,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 6,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 6,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 6,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 6,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 6,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 12,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 12,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 12,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 12,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 12,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 12,
+    "horizon": 12,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 6,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 6,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 6,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 6,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 6,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 13,
+    "horizon": 6,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 6,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 6,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 6,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 6,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 6,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 14,
+    "horizon": 6,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.1503592759573349,
+      "shrink_growth": 0.17786427759674092,
+      "factor_state": 0.21986507086305684,
+      "factor_damped": 0.21687964903789997,
+      "factor_boost": 0.23503172654496732
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.1037869476402568,
+      "shrink_growth": 0.13632759569050698,
+      "factor_state": 0.2462489469439029,
+      "factor_damped": 0.27152239657328747,
+      "factor_boost": 0.2421141131520459
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.09423937559201803,
+      "shrink_growth": 0.12018395282947265,
+      "factor_state": 0.25854462276146206,
+      "factor_damped": 0.2682837004502874,
+      "factor_boost": 0.25874834836675986
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.05065517764061463,
+      "shrink_growth": 0.06908993163420485,
+      "factor_state": 0.3039890003099363,
+      "factor_damped": 0.25126002431441086,
+      "factor_boost": 0.32500586610083343
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.16382954284877285,
+      "shrink_growth": 0.1831081919404944,
+      "factor_state": 0.21732040307370312,
+      "factor_damped": 0.22114125601204632,
+      "factor_boost": 0.21460060612498333
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.06841356661594186,
+      "shrink_growth": 0.09352416654275114,
+      "factor_state": 0.28360934896070045,
+      "factor_damped": 0.26926029782805005,
+      "factor_boost": 0.2851926200525564
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 6,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 6,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 6,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 6,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 6,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 15,
+    "horizon": 6,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.15858262261352235,
+      "shrink_growth": 0.18740834784037558,
+      "factor_state": 0.21573414534373425,
+      "factor_damped": 0.21346311841934085,
+      "factor_boost": 0.22481176578302692
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.1332664852910095,
+      "shrink_growth": 0.16853069923807407,
+      "factor_state": 0.22910385157839716,
+      "factor_damped": 0.2446201070374155,
+      "factor_boost": 0.2244788568551038
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.10226180712435706,
+      "shrink_growth": 0.13012772008891035,
+      "factor_state": 0.2539099900693865,
+      "factor_damped": 0.26278701354846695,
+      "factor_boost": 0.2509134691688791
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.07687859693147403,
+      "shrink_growth": 0.10577565528015628,
+      "factor_state": 0.28291108001673926,
+      "factor_damped": 0.24519149701891396,
+      "factor_boost": 0.28924317075271655
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.16069584612276822,
+      "shrink_growth": 0.18169050428387926,
+      "factor_state": 0.21984171313345843,
+      "factor_damped": 0.22312309009459816,
+      "factor_boost": 0.2146488463652959
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.09590264088334695,
+      "shrink_growth": 0.1296708496254595,
+      "factor_state": 0.26290417997816934,
+      "factor_damped": 0.25220875854932084,
+      "factor_boost": 0.2593135709637035
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 6,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 6,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 6,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 6,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 6,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 16,
+    "horizon": 6,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.1590079467224276,
+      "shrink_growth": 0.19150771915434572,
+      "factor_state": 0.21501719788492407,
+      "factor_damped": 0.21279423365525008,
+      "factor_boost": 0.22167290258305264
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.13556649606749224,
+      "shrink_growth": 0.17286366797011024,
+      "factor_state": 0.23008387315173787,
+      "factor_damped": 0.23966306603817591,
+      "factor_boost": 0.2218228967724838
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.09180619137135902,
+      "shrink_growth": 0.118955188580576,
+      "factor_state": 0.26281272309209325,
+      "factor_damped": 0.26628554641065033,
+      "factor_boost": 0.2601403505453213
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.09171847124830819,
+      "shrink_growth": 0.12815112678615553,
+      "factor_state": 0.268222655806374,
+      "factor_damped": 0.2380724627299422,
+      "factor_boost": 0.2738352834292202
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.15655092463045636,
+      "shrink_growth": 0.17930853753628495,
+      "factor_state": 0.2218603220854679,
+      "factor_damped": 0.22440753360031512,
+      "factor_boost": 0.2178726821474758
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.10353440274080775,
+      "shrink_growth": 0.14049983507831798,
+      "factor_state": 0.25758566763794727,
+      "factor_damped": 0.24667405929892727,
+      "factor_boost": 0.2517060352439998
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.213983212637833,
+      "shrink_growth": 0.23107041480095805,
+      "factor_state": 0.17653677804676798,
+      "factor_damped": 0.19721315399547976,
+      "factor_boost": 0.1811964405189613
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.20545080432159873,
+      "shrink_growth": 0.2326542862647547,
+      "factor_state": 0.1714376882108773,
+      "factor_damped": 0.21840849606868118,
+      "factor_boost": 0.17204872513408814
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.14145951930202955,
+      "shrink_growth": 0.16008869880266627,
+      "factor_state": 0.23565323776660524,
+      "factor_damped": 0.2257587724407194,
+      "factor_boost": 0.23703977168797963
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.1308453087252948,
+      "shrink_growth": 0.16339811786379083,
+      "factor_state": 0.23845126723542392,
+      "factor_damped": 0.19425363401711368,
+      "factor_boost": 0.2730516721583768
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.19502876430948574,
+      "shrink_growth": 0.2020183401515679,
+      "factor_state": 0.19811101981091195,
+      "factor_damped": 0.20301737994133406,
+      "factor_boost": 0.20182449578670025
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.15471862473827128,
+      "shrink_growth": 0.1847032614241831,
+      "factor_state": 0.21352491847820151,
+      "factor_damped": 0.22134911322355985,
+      "factor_boost": 0.22570408213578425
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 6,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 6,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 6,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 6,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 6,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 17,
+    "horizon": 6,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.15509576150744828,
+      "shrink_growth": 0.1887278393443016,
+      "factor_state": 0.21714086910809377,
+      "factor_damped": 0.21610395615269246,
+      "factor_boost": 0.22293157388746387
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.13586655308498438,
+      "shrink_growth": 0.17323303708437937,
+      "factor_state": 0.22850239633863983,
+      "factor_damped": 0.2407317778222864,
+      "factor_boost": 0.2216662356697101
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.08702961066804665,
+      "shrink_growth": 0.11462689942196173,
+      "factor_state": 0.26865739610657086,
+      "factor_damped": 0.26507121608338396,
+      "factor_boost": 0.26461487772003683
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.09101819961963878,
+      "shrink_growth": 0.12677040544721913,
+      "factor_state": 0.2667329612810722,
+      "factor_damped": 0.24597894580274707,
+      "factor_boost": 0.2694994878493228
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.15054371219728027,
+      "shrink_growth": 0.17519936871151667,
+      "factor_state": 0.22497419325518364,
+      "factor_damped": 0.2287202891616701,
+      "factor_boost": 0.2205624366743494
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.10056287497113313,
+      "shrink_growth": 0.13686202684717402,
+      "factor_state": 0.2614781177583442,
+      "factor_damped": 0.24766038698658438,
+      "factor_boost": 0.2534365934367643
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2108330485632333,
+      "shrink_growth": 0.23207723340409608,
+      "factor_state": 0.17843510178299757,
+      "factor_damped": 0.19717594474787334,
+      "factor_boost": 0.18147867150179964
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.20169444093984829,
+      "shrink_growth": 0.2335301587979892,
+      "factor_state": 0.174137649360921,
+      "factor_damped": 0.21511152298092323,
+      "factor_boost": 0.17552622792031825
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.13178936948148454,
+      "shrink_growth": 0.15426361706710914,
+      "factor_state": 0.24633905082616175,
+      "factor_damped": 0.22317403710502684,
+      "factor_boost": 0.24443392552021775
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.13585250070917065,
+      "shrink_growth": 0.17313929274878398,
+      "factor_state": 0.23474134613739087,
+      "factor_damped": 0.19097836633673512,
+      "factor_boost": 0.26528849406791927
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.18831196696624194,
+      "shrink_growth": 0.1985023662746444,
+      "factor_state": 0.2031196077096242,
+      "factor_damped": 0.20565987896079996,
+      "factor_boost": 0.20440618008868955
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.16216606077897777,
+      "shrink_growth": 0.1974706718384254,
+      "factor_state": 0.2098176685278894,
+      "factor_damped": 0.213262105863447,
+      "factor_boost": 0.2172834929912604
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 6,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 6,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 6,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 6,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 6,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 18,
+    "horizon": 6,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.2,
+      "shrink_growth": 0.2,
+      "factor_state": 0.2,
+      "factor_damped": 0.2,
+      "factor_boost": 0.2
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.12457366710860696,
+      "shrink_growth": 0.1668058891693006,
+      "factor_state": 0.2424890266469793,
+      "factor_damped": 0.23560483966742093,
+      "factor_boost": 0.23052657740769228
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.12147743319704223,
+      "shrink_growth": 0.16119036760248578,
+      "factor_state": 0.24332681805004638,
+      "factor_damped": 0.24224989271009384,
+      "factor_boost": 0.23175548844033186
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.07802727080295364,
+      "shrink_growth": 0.10904441299231614,
+      "factor_state": 0.2746351247992023,
+      "factor_damped": 0.2632187255312562,
+      "factor_boost": 0.27507446587427153
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.09677584503433832,
+      "shrink_growth": 0.14171283256453404,
+      "factor_state": 0.25554625895116134,
+      "factor_damped": 0.22677749286155482,
+      "factor_boost": 0.2791875705884114
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.11021115885348022,
+      "shrink_growth": 0.14489835486671596,
+      "factor_state": 0.24662241260681642,
+      "factor_damped": 0.2542498628610677,
+      "factor_boost": 0.24401821081191954
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.08913932777040334,
+      "shrink_growth": 0.12921000459272144,
+      "factor_state": 0.2710664060752218,
+      "factor_damped": 0.24501856176885153,
+      "factor_boost": 0.265565699792802
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.2060314249991405,
+      "shrink_growth": 0.23288919656520893,
+      "factor_state": 0.18069810824751736,
+      "factor_damped": 0.19785497425652396,
+      "factor_boost": 0.18252629593160916
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.19700797032171977,
+      "shrink_growth": 0.23213420238409557,
+      "factor_state": 0.1789551011927331,
+      "factor_damped": 0.21120953583055552,
+      "factor_boost": 0.18069319027089598
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.12804197316288116,
+      "shrink_growth": 0.1528937690908903,
+      "factor_state": 0.25000555273033637,
+      "factor_damped": 0.22041397343246882,
+      "factor_boost": 0.24864473158342335
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.13202044140815053,
+      "shrink_growth": 0.17286428327661288,
+      "factor_state": 0.23900408811057464,
+      "factor_damped": 0.18668844966930206,
+      "factor_boost": 0.26942273753535984
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.1831869820483045,
+      "shrink_growth": 0.19711434534782712,
+      "factor_state": 0.20476883183468994,
+      "factor_damped": 0.2096001634572424,
+      "factor_boost": 0.20532967731193608
+    }
+  },
+  {
+    "origin": 19,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.1565692656241662,
+      "shrink_growth": 0.19362469426575032,
+      "factor_state": 0.21683012569978266,
+      "factor_damped": 0.20915878654369063,
+      "factor_boost": 0.22381712786661004
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.13651913666307855,
+      "shrink_growth": 0.1810008833346256,
+      "factor_state": 0.23049718654556606,
+      "factor_damped": 0.23036952524920873,
+      "factor_boost": 0.22161326820752103
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.1432686004745983,
+      "shrink_growth": 0.18309852549679836,
+      "factor_state": 0.22366809367386284,
+      "factor_damped": 0.23248459338714372,
+      "factor_boost": 0.21748018696759666
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.07569342474675135,
+      "shrink_growth": 0.10590702928862278,
+      "factor_state": 0.27767896003326226,
+      "factor_damped": 0.2595347009431121,
+      "factor_boost": 0.2811858849882516
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.1109724898940017,
+      "shrink_growth": 0.16149198988700691,
+      "factor_state": 0.23799075023214605,
+      "factor_damped": 0.23143110817039414,
+      "factor_boost": 0.2581136618164512
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.12473094107813712,
+      "shrink_growth": 0.15709288639532692,
+      "factor_state": 0.2381949819454394,
+      "factor_damped": 0.24050730771191053,
+      "factor_boost": 0.2394738828691861
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.10725453713394141,
+      "shrink_growth": 0.15231821431936507,
+      "factor_state": 0.2508314577954355,
+      "factor_damped": 0.24425987554414375,
+      "factor_boost": 0.24533591520711426
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.20494288625350607,
+      "shrink_growth": 0.23291564504075815,
+      "factor_state": 0.18026534518915527,
+      "factor_damped": 0.20098356819010954,
+      "factor_boost": 0.180892555326471
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.20107727732526828,
+      "shrink_growth": 0.23463953439411733,
+      "factor_state": 0.1751561355050969,
+      "factor_damped": 0.21516997729697435,
+      "factor_boost": 0.17395707547854317
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.12945764154025408,
+      "shrink_growth": 0.15694154953749812,
+      "factor_state": 0.24974176822174088,
+      "factor_damped": 0.22000930949792258,
+      "factor_boost": 0.2438497312025843
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.14764088591839336,
+      "shrink_growth": 0.19298046862118404,
+      "factor_state": 0.2246146226233472,
+      "factor_damped": 0.20246980922287133,
+      "factor_boost": 0.23229421361420408
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.18403178807437645,
+      "shrink_growth": 0.19820083969494726,
+      "factor_state": 0.20457939861701593,
+      "factor_damped": 0.2101665008806222,
+      "factor_boost": 0.20302147273303828
+    }
+  },
+  {
+    "origin": 20,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.15846058013372963,
+      "shrink_growth": 0.19712767069095743,
+      "factor_state": 0.21351379621121916,
+      "factor_damped": 0.2160618542396911,
+      "factor_boost": 0.21483609872440262
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.14833647995602203,
+      "shrink_growth": 0.19053792450942084,
+      "factor_state": 0.21815097211301385,
+      "factor_damped": 0.2292254644567014,
+      "factor_boost": 0.21374915896484178
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.15744585504814093,
+      "shrink_growth": 0.193896761436871,
+      "factor_state": 0.21389384930811858,
+      "factor_damped": 0.22873518502264298,
+      "factor_boost": 0.20602834918422658
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.07635192564496356,
+      "shrink_growth": 0.10426863733816667,
+      "factor_state": 0.2809196343687189,
+      "factor_damped": 0.2538139103236941,
+      "factor_boost": 0.2846458923244568
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.13557481953657524,
+      "shrink_growth": 0.19160085661295095,
+      "factor_state": 0.20991068937204435,
+      "factor_damped": 0.23022852398076535,
+      "factor_boost": 0.23268511049766413
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.13127359496414454,
+      "shrink_growth": 0.15920236411262936,
+      "factor_state": 0.23957192213783046,
+      "factor_damped": 0.23943914342749523,
+      "factor_boost": 0.23051297535790044
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.1197572083329763,
+      "shrink_growth": 0.16535136436255896,
+      "factor_state": 0.23724849099350795,
+      "factor_damped": 0.24549034779408885,
+      "factor_boost": 0.232152588516868
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 3,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.18997587080337303,
+      "shrink_growth": 0.2235193006556716,
+      "factor_state": 0.19596488734920323,
+      "factor_damped": 0.2062990956970507,
+      "factor_boost": 0.1842408454947015
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 3,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.19868418776889352,
+      "shrink_growth": 0.2392017762979484,
+      "factor_state": 0.17797517090545306,
+      "factor_damped": 0.21096029779887204,
+      "factor_boost": 0.17317856722883296
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 3,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.12373460103218822,
+      "shrink_growth": 0.15440109850621725,
+      "factor_state": 0.2594470556331773,
+      "factor_damped": 0.21317077644174795,
+      "factor_boost": 0.24924646838666933
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 3,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.1640035345443895,
+      "shrink_growth": 0.22024836650179827,
+      "factor_state": 0.21173386614408565,
+      "factor_damped": 0.20127918677304296,
+      "factor_boost": 0.2027350460366835
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 3,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.17011730684305904,
+      "shrink_growth": 0.18854937986712808,
+      "factor_state": 0.21739795012554722,
+      "factor_damped": 0.21420350239775113,
+      "factor_boost": 0.20973186076651457
+    }
+  },
+  {
+    "origin": 21,
+    "horizon": 3,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.16788744826826016,
+      "shrink_growth": 0.2156674581362733,
+      "factor_state": 0.20759646339330318,
+      "factor_damped": 0.20861299852940396,
+      "factor_boost": 0.20023563167275943
+    }
+  },
+  {
+    "origin": 22,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.13299402877338284,
+      "shrink_growth": 0.1769075158136799,
+      "factor_state": 0.22031496764671155,
+      "factor_damped": 0.24176545342737804,
+      "factor_boost": 0.2280180343388477
+    }
+  },
+  {
+    "origin": 22,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.14289629296527542,
+      "shrink_growth": 0.17781548419219462,
+      "factor_state": 0.22335544827537526,
+      "factor_damped": 0.24069302653866553,
+      "factor_boost": 0.21523974802848922
+    }
+  },
+  {
+    "origin": 22,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.06563676809110315,
+      "shrink_growth": 0.09024539762136409,
+      "factor_state": 0.2941057092610498,
+      "factor_damped": 0.2504479936427417,
+      "factor_boost": 0.29956413138374133
+    }
+  },
+  {
+    "origin": 22,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.12804676023518638,
+      "shrink_growth": 0.18058429076105995,
+      "factor_state": 0.20317151390303842,
+      "factor_damped": 0.23652912061921888,
+      "factor_boost": 0.25166831448149624
+    }
+  },
+  {
+    "origin": 22,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.1266441272294491,
+      "shrink_growth": 0.15618781167833642,
+      "factor_state": 0.23927604136169164,
+      "factor_damped": 0.241161360358584,
+      "factor_boost": 0.23673065937193882
+    }
+  },
+  {
+    "origin": 22,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.10558454210461475,
+      "shrink_growth": 0.1474301149912919,
+      "factor_state": 0.24243830011356116,
+      "factor_damped": 0.2584284893999535,
+      "factor_boost": 0.2461185533905786
+    }
+  },
+  {
+    "origin": 23,
+    "horizon": 1,
+    "category": "Все категории",
+    "weights": {
+      "pooled_growth": 0.11794476737817791,
+      "shrink_growth": 0.1551251142145217,
+      "factor_state": 0.22905875155677902,
+      "factor_damped": 0.2571642924778743,
+      "factor_boost": 0.24070707437264707
+    }
+  },
+  {
+    "origin": 23,
+    "horizon": 1,
+    "category": "Здоровье",
+    "weights": {
+      "pooled_growth": 0.13684108680463156,
+      "shrink_growth": 0.16745541696823169,
+      "factor_state": 0.2236673005295472,
+      "factor_damped": 0.2513986802764458,
+      "factor_boost": 0.22063751542114388
+    }
+  },
+  {
+    "origin": 23,
+    "horizon": 1,
+    "category": "Маркетплейсы",
+    "weights": {
+      "pooled_growth": 0.07914762300986058,
+      "shrink_growth": 0.10431561964831236,
+      "factor_state": 0.2854725190154361,
+      "factor_damped": 0.24595467340759708,
+      "factor_boost": 0.28510956491879386
+    }
+  },
+  {
+    "origin": 23,
+    "horizon": 1,
+    "category": "Общественное питание",
+    "weights": {
+      "pooled_growth": 0.1135206154356816,
+      "shrink_growth": 0.15669781243812278,
+      "factor_state": 0.20095261682970442,
+      "factor_damped": 0.2551383709018281,
+      "factor_boost": 0.27369058439466304
+    }
+  },
+  {
+    "origin": 23,
+    "horizon": 1,
+    "category": "Продовольствие",
+    "weights": {
+      "pooled_growth": 0.12129760248482564,
+      "shrink_growth": 0.15094806201948116,
+      "factor_state": 0.2421701746385169,
+      "factor_damped": 0.24538694921662801,
+      "factor_boost": 0.2401972116405482
+    }
+  },
+  {
+    "origin": 23,
+    "horizon": 1,
+    "category": "Транспорт",
+    "weights": {
+      "pooled_growth": 0.09509661846630603,
+      "shrink_growth": 0.13213494213346508,
+      "factor_state": 0.2446295697108127,
+      "factor_damped": 0.2688168918862218,
+      "factor_boost": 0.2593219778031943
+    }
+  }
+]

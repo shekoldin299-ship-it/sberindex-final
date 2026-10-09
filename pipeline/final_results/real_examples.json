@@ -1,0 +1,21 @@
+{
+  "signal_selection": "two largest maximum alarm scores in All categories",
+  "signals": [
+    {
+      "territory_id": 1305,
+      "category": "Все категории",
+      "month": "2024-07-01",
+      "score": 1.4980974243785972,
+      "direction": -1
+    },
+    {
+      "territory_id": 1288,
+      "category": "Все категории",
+      "month": "2024-06-01",
+      "score": 1.432097879899021,
+      "direction": 1
+    }
+  ],
+  "forecast_example_territory_id": 2286,
+  "forecast_selection": "median first-year average in evaluation cohort"
+}

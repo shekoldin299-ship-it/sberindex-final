@@ -1,0 +1,30 @@
+[
+  {
+    "horizon": 1,
+    "n": 1710,
+    "coverage": 0.9596491228070175,
+    "joint_territory_category_coverage": 0.8982456140350877,
+    "mean_width": 2135.9885461623544
+  },
+  {
+    "horizon": 3,
+    "n": 1146,
+    "coverage": 0.944153577661431,
+    "joint_territory_category_coverage": 0.8958333333333334,
+    "mean_width": 2441.8036317882797
+  },
+  {
+    "horizon": 6,
+    "n": 570,
+    "coverage": 0.9070175438596492,
+    "joint_territory_category_coverage": 0.9070175438596492,
+    "mean_width": 2114.3599613985234
+  },
+  {
+    "horizon": 12,
+    "n": 570,
+    "coverage": 0.9087719298245615,
+    "joint_territory_category_coverage": 0.9087719298245615,
+    "mean_width": 3248.480345495983
+  }
+]

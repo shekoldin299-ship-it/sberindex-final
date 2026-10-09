@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "annual_origins": 10,
+  "forecast_pairs": 124284,
+  "fixed_horizon_months": 12,
+  "min_history": 3,
+  "max_history": 12,
+  "future_invariance": true,
+  "old_v5_exact_match": true,
+  "new_blind_test": false,
+  "yearly_coverage_limit": "Same 2024 target year; shorter municipal prefixes, current-vintage national history"
+}

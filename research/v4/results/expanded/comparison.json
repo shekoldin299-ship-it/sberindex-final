@@ -1,0 +1,11 @@
+{
+  "n": 150228,
+  "v3_mae": 383.6161127165643,
+  "online_mix_mae": 426.8480336639422,
+  "month_bootstrap_ci": [
+    -29.95551393382438,
+    151.37345318278233
+  ],
+  "bootstrap_caution": "12 dependent calendar months; diagnostic only",
+  "baseline_caution": "V3 policy retrospectively fixed; not historically available at every origin"
+}

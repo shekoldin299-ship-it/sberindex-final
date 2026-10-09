@@ -1,0 +1,38 @@
+[
+  {
+    "horizon": 1,
+    "model": "seasonal_scaled",
+    "n": 882,
+    "mae_selected": 432.15981323099857,
+    "mae_prophet": 750.2358607961339,
+    "relative_mae_change_pct": -42.39680668258112,
+    "mae_difference_ci_low": -382.54468248038864,
+    "mae_difference_ci_high": -254.88318394909436,
+    "territory_win_share": 0.9591836734693877,
+    "bootstrap": "2000 paired municipality-cluster draws; shared calendar dependence remains"
+  },
+  {
+    "horizon": 3,
+    "model": "prophet_default",
+    "n": 588,
+    "mae_selected": 1052.5478023821472,
+    "mae_prophet": 1052.5478023821472,
+    "relative_mae_change_pct": 0.0,
+    "mae_difference_ci_low": 0.0,
+    "mae_difference_ci_high": 0.0,
+    "territory_win_share": 0.0,
+    "bootstrap": "2000 paired municipality-cluster draws; shared calendar dependence remains"
+  },
+  {
+    "horizon": 6,
+    "model": "last_value",
+    "n": 294,
+    "mae_selected": 1832.0986394557824,
+    "mae_prophet": 1233.2367143090585,
+    "relative_mae_change_pct": 48.56017650125235,
+    "mae_difference_ci_low": 468.69520843516597,
+    "mae_difference_ci_high": 742.5755355338538,
+    "territory_win_share": 0.061224489795918366,
+    "bootstrap": "2000 paired municipality-cluster draws; shared calendar dependence remains"
+  }
+]

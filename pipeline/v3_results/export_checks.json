@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "rows": 52560,
+  "names": 2190,
+  "checks": [
+    "unique keys",
+    "finite predictions",
+    "interval ordering",
+    "frozen policy forecast values",
+    "unique official geography keys"
+  ]
+}

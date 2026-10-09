@@ -1,0 +1,19 @@
+{
+  "research/v6/annual.py": "bb1207f28b57e82953ee4144e6a4f27a5fe4ca59333cd994737ca37b1465c67e",
+  "research/v6/verify.py": "08cff2d838a32add904cda60d08c19aaada14ed2d1c68a8ff48fd02b1232168f",
+  "research/v6/test_annual.py": "acd33f43e1dd39efdbc7aa8cf79a9da67a6dd83df35cb968c32a21b82da4a20e",
+  "research/v6/PROTOCOL.md": "4118e14aa8c2bc25afaaf38c2311b278a76df47a49723bfd7dbc1634bf5146e3",
+  "research/v6/README.md": "ee088faa5d30c98ba1ffc67447cb00f8b62837a1a7b8031f38a149045062e9e7",
+  "research/v6/annual_results/metrics.csv": "3c3167835947995b5756131c63c6fdd535ad9c20a3793410e0795a92831a9156",
+  "research/v6/annual_results/verification.json": "ec63cd2967b4c9831df1097ed1d8cb0f78d541ceef6889f9b4a720861906278f",
+  "research/v6/annual_results/mixture_diagnostics.csv": "468770a2c784c16cea4dde479294274ed780261c726f4aa75f704c730258a77a",
+  "research/v6/annual_results/predictions.parquet/part-000.parquet": "82634cd5d6ddfbe58a4380ff0cb293eef9101559ab3a0a76e6aac3d3ee077e47",
+  "research/v6/annual_results/predictions.parquet/part-005.parquet": "31a183430b77c740c60a841c0f31930b87a3684dcf99f5567f760f4e5fb9d3ee",
+  "research/v6/annual_results/predictions.parquet/part-001.parquet": "86a4c662610e5834b8dca93eba97ecf11e97e4635fdbd9ae1f584238773bef5a",
+  "research/v6/annual_results/predictions.parquet/part-002.parquet": "30466e60ba83f800f71c0dbb9b75ed6013bbc6ed8ab4d06ffbf1044c407b8e2d",
+  "research/v6/annual_results/predictions.parquet/part-003.parquet": "cc9bd537b75a8441b6bb62e4d8408daa14335ad2a98d58e4d41e6e6bc2a7c6ce",
+  "research/v6/annual_results/predictions.parquet/part-004.parquet": "02ae5c55ba712b39f282f22ea1be51194f78e2e3cc98f22743b44985e5a1e4d3",
+  "research/v6/annual_results/predictions.parquet/part-006.parquet": "2866c209315bba41d84b192a7a60cdf18cf960048c543b04c2e7537a54e0a407",
+  "pipeline/data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+  "research/v5/national_source.csv": "738d6a642c2948c6cd1bcfe5f39d83b36a45c4a77682f29576841f720e9135d1"
+}

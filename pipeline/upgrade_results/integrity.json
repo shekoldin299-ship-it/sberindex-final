@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "test_cases": 3996,
+  "test_territories_with_targets": 96,
+  "export_rows": 52560,
+  "checks": [
+    "frozen source hash",
+    "disjoint geographic cohorts",
+    "tuning-only selection",
+    "source targets",
+    "point forecasts",
+    "calibration-only interval quantiles",
+    "recomputed MAE",
+    "detector event scoring",
+    "nonnegative finite exports"
+  ]
+}

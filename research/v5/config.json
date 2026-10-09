@@ -1,0 +1,7 @@
+{
+  "growth_window": 3,
+  "level_window": 3,
+  "growth_clip": [-0.1, 0.5],
+  "local_growth_clip": [-0.2, 0.7],
+  "pooled_growth_weight": 0.75
+}

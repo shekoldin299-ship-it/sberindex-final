@@ -1,0 +1,42 @@
+{
+  "wall_seconds": 477.6181447609997,
+  "origins": [
+    {
+      "origin": 12,
+      "seconds": 45.430101320001995,
+      "pooled_training_rows": 32892
+    },
+    {
+      "origin": 15,
+      "seconds": 64.45940166000219,
+      "pooled_training_rows": 58866
+    },
+    {
+      "origin": 18,
+      "seconds": 91.39192314300453,
+      "pooled_training_rows": 87726
+    },
+    {
+      "origin": 21,
+      "seconds": 143.96096278099867,
+      "pooled_training_rows": 122358
+    },
+    {
+      "origin": 23,
+      "seconds": 121.48162746000162,
+      "pooled_training_rows": 145446
+    }
+  ],
+  "foundation_model": "amazon/chronos-bolt-tiny",
+  "foundation_revision": "a0e552de83495b5c28c14c71c374f3e33280b340",
+  "device": "cpu",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "prophet": "1.5.0",
+    "torch": "2.6.0+cpu",
+    "transformers": "4.51.3",
+    "chronos-forecasting": "1.5.3"
+  }
+}

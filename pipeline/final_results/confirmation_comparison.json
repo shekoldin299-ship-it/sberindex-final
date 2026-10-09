@@ -1,0 +1,54 @@
+[
+  {
+    "horizon": 1,
+    "n": 1710,
+    "territories_with_targets": 95,
+    "model": "pooled_ridge",
+    "mae_candidate": 432.2491081290817,
+    "mae_prophet": 720.3375161753302,
+    "relative_mae_change_pct": -39.99353102915825,
+    "mae_difference_ci_low": -315.01300750743144,
+    "mae_difference_ci_high": -260.33974225239325,
+    "territory_win_share": 0.9894736842105263,
+    "interpretation": "additional territories, shared calendar; h12 is single-origin diagnostic"
+  },
+  {
+    "horizon": 3,
+    "n": 1140,
+    "territories_with_targets": 95,
+    "model": "pooled_ridge",
+    "mae_candidate": 562.8031459415764,
+    "mae_prophet": 999.4643071327005,
+    "relative_mae_change_pct": -43.68952028350401,
+    "mae_difference_ci_low": -496.96632804654666,
+    "mae_difference_ci_high": -372.5974989570491,
+    "territory_win_share": 0.9052631578947369,
+    "interpretation": "additional territories, shared calendar; h12 is single-origin diagnostic"
+  },
+  {
+    "horizon": 6,
+    "n": 570,
+    "territories_with_targets": 95,
+    "model": "pooled_ridge",
+    "mae_candidate": 545.6871117639467,
+    "mae_prophet": 1202.26595942001,
+    "relative_mae_change_pct": -54.61178057247883,
+    "mae_difference_ci_low": -761.9690685533543,
+    "mae_difference_ci_high": -545.4904761732643,
+    "territory_win_share": 0.8736842105263158,
+    "interpretation": "additional territories, shared calendar; h12 is single-origin diagnostic"
+  },
+  {
+    "horizon": 12,
+    "n": 570,
+    "territories_with_targets": 95,
+    "model": "damped_trend",
+    "mae_candidate": 740.2476823319271,
+    "mae_prophet": 806.8044515337748,
+    "relative_mae_change_pct": -8.24943009118505,
+    "mae_difference_ci_low": -156.54834147357386,
+    "mae_difference_ci_high": 28.343176473899774,
+    "territory_win_share": 0.5368421052631579,
+    "interpretation": "additional territories, shared calendar; h12 is single-origin diagnostic"
+  }
+]

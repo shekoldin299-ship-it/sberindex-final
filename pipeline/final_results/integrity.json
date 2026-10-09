@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "models": [
+    "chronos_bolt_tiny",
+    "damped_trend",
+    "last_value",
+    "pooled_ridge",
+    "pooled_ridge_news",
+    "prophet_annual3",
+    "prophet_default",
+    "seasonal_naive",
+    "seasonal_scaled"
+  ],
+  "prediction_rows": 34398,
+  "unique_paired_cases": 3822,
+  "evaluation_territories": 50,
+  "export_rows": 52560,
+  "confirmation_prediction_rows": 15960,
+  "checks": [
+    "source checksum",
+    "paired keys",
+    "targets and dates",
+    "finite nonnegative forecasts",
+    "recomputed MAE",
+    "validation-only selector",
+    "independent synthetic event scoring",
+    "news publication-time availability",
+    "export completeness",
+    "confirmation cohort disjointness, frozen code and recomputed MAE"
+  ],
+  "limitation": "Integrity checks do not establish statistical superiority or competition acceptance."
+}

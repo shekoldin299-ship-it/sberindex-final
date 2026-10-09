@@ -1,0 +1,92 @@
+{
+  "1|Все категории": {
+    "model": "chronos_seasonal_mix",
+    "tuning_mae": 872.7559400878584,
+    "seasonal_mae": 1093.6282016576606
+  },
+  "1|Здоровье": {
+    "model": "chronos_adapted",
+    "tuning_mae": 102.09097809092107,
+    "seasonal_mae": 111.32421393941704
+  },
+  "1|Маркетплейсы": {
+    "model": "blend_1",
+    "tuning_mae": 484.83204380841687,
+    "seasonal_mae": 715.6601910715349
+  },
+  "1|Общественное питание": {
+    "model": "blend_0.5",
+    "tuning_mae": 88.99412615925564,
+    "seasonal_mae": 108.20229952995273
+  },
+  "1|Продовольствие": {
+    "model": "blend_0.5",
+    "tuning_mae": 336.2863618233492,
+    "seasonal_mae": 437.95329700955466
+  },
+  "1|Транспорт": {
+    "model": "chronos_seasonal_mix",
+    "tuning_mae": 104.72322384450526,
+    "seasonal_mae": 126.19067617787121
+  },
+  "3|Все категории": {
+    "model": "chronos_seasonal_mix",
+    "tuning_mae": 955.9637033207498,
+    "seasonal_mae": 1319.8959817025063
+  },
+  "3|Здоровье": {
+    "model": "chronos_seasonal_mix",
+    "tuning_mae": 101.20661317129057,
+    "seasonal_mae": 123.75850182047635
+  },
+  "3|Маркетплейсы": {
+    "model": "chronos_seasonal_mix",
+    "tuning_mae": 577.9825871742208,
+    "seasonal_mae": 919.5759455840827
+  },
+  "3|Общественное питание": {
+    "model": "blend_0.75",
+    "tuning_mae": 81.91905635733055,
+    "seasonal_mae": 136.96028942540056
+  },
+  "3|Продовольствие": {
+    "model": "chronos_seasonal_mix",
+    "tuning_mae": 462.4676623629641,
+    "seasonal_mae": 698.0415310515222
+  },
+  "3|Транспорт": {
+    "model": "blend_0.5",
+    "tuning_mae": 112.93002814424497,
+    "seasonal_mae": 144.4440901442256
+  },
+  "6|Все категории": {
+    "model": "blend_0.75",
+    "tuning_mae": 1065.8021955062536,
+    "seasonal_mae": 1703.113811797905
+  },
+  "6|Здоровье": {
+    "model": "chronos_seasonal_mix",
+    "tuning_mae": 105.08767943193303,
+    "seasonal_mae": 142.6050490742002
+  },
+  "6|Маркетплейсы": {
+    "model": "chronos_seasonal_mix",
+    "tuning_mae": 614.4467177322834,
+    "seasonal_mae": 1348.6331654857047
+  },
+  "6|Общественное питание": {
+    "model": "blend_0.75",
+    "tuning_mae": 86.26397916702531,
+    "seasonal_mae": 157.89305627418565
+  },
+  "6|Продовольствие": {
+    "model": "chronos_seasonal_mix",
+    "tuning_mae": 416.6963914067065,
+    "seasonal_mae": 847.5685075298466
+  },
+  "6|Транспорт": {
+    "model": "blend_0.75",
+    "tuning_mae": 101.52211034665235,
+    "seasonal_mae": 159.227854543173
+  }
+}

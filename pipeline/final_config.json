@@ -1,0 +1,23 @@
+{
+  "seed": 20261008,
+  "horizons": [1, 3, 6, 12],
+  "origins": [12, 15, 18, 21, 23],
+  "validation_last_target_index": 17,
+  "test_first_origin": 18,
+  "evaluation_territories": 50,
+  "training_territories": 500,
+  "ridge_alpha": 100.0,
+  "prediction_ratio_clip": [0.25, 4.0],
+  "foundation_model": "amazon/chronos-bolt-tiny",
+  "foundation_revision": "a0e552de83495b5c28c14c71c374f3e33280b340",
+  "foundation_batch_size": 64,
+  "torch_threads": 2,
+  "prophet_workers": 4,
+  "h12_deployment_model": "damped_trend",
+  "synthetic_calibration_seed": 42,
+  "synthetic_test_seed": 1042,
+  "synthetic_cases_per_kind": 100,
+  "detector_thresholds": {"cusum": [4.0, 6.0, 8.0], "ewma": [2.0, 3.0, 4.0], "window": [2.0, 3.0, 4.0]},
+  "alarm_cooldown": 3,
+  "detection_tolerance": 6
+}

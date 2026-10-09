@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "date": "2026-10-09",
+  "python": "3.12.14",
+  "command": "python run.py reproduce --output <new directory outside repository>",
+  "scope": "Fresh end-to-end recomputation, including models, detectors, validators, local cases and demo export",
+  "prediction_rows": 87786,
+  "export_rows": 52560,
+  "max_abs_v3_prediction_difference_rub": 0.0012130357354180887,
+  "max_abs_v3_mae_difference_rub": 4.3302169387970935e-06,
+  "max_abs_export_prediction_difference_rub": 0.0020834996685152873,
+  "forecast_comparison_tolerance": {
+    "rtol": 1e-07,
+    "atol_rub": 0.01
+  },
+  "source_targets_and_keys": "exact match",
+  "detector_metrics": "exact match",
+  "selected_policies": "same choices",
+  "policy_files": [
+    "upgrade_results/policy.json",
+    "v3_results/policy.json",
+    "upgrade_results/detector_selection.json",
+    "v3_results/detector_policy.json"
+  ],
+  "run_py_sha256": "7d65da91a3e0cc5784582fc7061e2bacf680cc461fc9a68749993e8cc7d3f989",
+  "computation_source_sha256": {
+    "experiment.py": "b3ac92568284c25a049e9ae70d3527259eba83865a2456bc8e59e2ef787f4c01",
+    "forecasting.py": "173c260a07e02c624bf27e2b203cf0792658030ecd616a0d8e9b34068ee784ff",
+    "upgrade_v2.py": "c56ee595285218d4454399071a322bee81e70e3a7bc5f5b8150d2404935e303d",
+    "upgrade_v3.py": "65c57cd8b24a86782c9a4dc725a07db13542d80259fa4fdfe889ba083c9068f0"
+  },
+  "limitation": "Confirms computational reproducibility in this environment; does not establish future predictive performance or a fresh-install test on another machine."
+}

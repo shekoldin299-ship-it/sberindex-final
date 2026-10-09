@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-09",
+  "source": "Official export supplied by project owner",
+  "months": 73,
+  "first_month": "2018-12",
+  "last_month": "2024-12",
+  "values_compared": 292,
+  "comparison": "Exact decimal equality",
+  "differences": 0,
+  "mapping": {
+    "food": "Продовольственные товары",
+    "nonfood": "Непродовольственные товары",
+    "catering": "Общественное питание",
+    "services": "Услуги"
+  },
+  "national_source_sha256": "738d6a642c2948c6cd1bcfe5f39d83b36a45c4a77682f29576841f720e9135d1",
+  "official_extract_sha256": "54766fc2ffd47eab0abcdbc1b7b725695d6bd209a5b48ae4a1314eb3ca8d6290",
+  "predictions_changed": false
+}

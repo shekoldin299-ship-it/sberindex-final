@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": [
+    "loaded 2190 territories and 6 categories",
+    "horizon switch",
+    "invalid territory recovery",
+    "signal selection",
+    "DOM-based WebMCP registration and valid/invalid state changes",
+    "all dataset shapes and interval ordering"
+  ],
+  "limitation": "jsdom emulation only; no real browser or physical iPhone rendering test"
+}

@@ -1,0 +1,7 @@
+{
+  "status": "retrospective_design_after_comparison_not_blind_test",
+  "baseline_commit": "4691e2606c13e3891a9d9bd3249c065b16c44567",
+  "pairs": 200352,
+  "national_lag_months": 1,
+  "sensitivity_lag_months": 2
+}

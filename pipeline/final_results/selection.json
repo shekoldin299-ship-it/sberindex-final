@@ -1,0 +1,10 @@
+{
+  "by_horizon": {
+    "1": "seasonal_scaled",
+    "3": "prophet_default",
+    "6": "last_value",
+    "12": "damped_trend"
+  },
+  "criterion": "validation MAE only for h=1,3,6",
+  "h12": "fixed in protocol; not selected on diagnostic results"
+}

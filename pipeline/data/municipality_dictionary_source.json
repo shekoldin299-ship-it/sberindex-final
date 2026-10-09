@@ -1,0 +1,10 @@
+{
+  "source": "СберИндекс",
+  "url": "https://s.sber.ru/GthXk7",
+  "dataset_page": "https://sberindex.ru/ru/research/dataset-borders-and-changes-of-municipalities",
+  "retrieved": "2026-10-08",
+  "original_filename": "t_dict_municipal_districts.xlsx",
+  "xlsx_sha256": "4150658c3298fbc87ed79838f503f3a5b9a28da33257ff803c7d9231ddb775d6",
+  "join": "Official territory_id; latest record beginning no later than 2024. Historical boundaries may differ; no matching by guessed names.",
+  "verification_limit": "Public spending endpoint returned HTTP 502; numerical series identity not independently cross-checked."
+}

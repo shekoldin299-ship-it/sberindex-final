@@ -1,0 +1,434 @@
+{
+  "stage": "initial_baselines_not_final_submission",
+  "config": {
+    "seed": 42,
+    "cutoffs": [
+      12,
+      15,
+      18,
+      21,
+      23
+    ],
+    "horizons": [
+      1,
+      3,
+      6,
+      12
+    ],
+    "pilot_territories": 10,
+    "prophet": {
+      "changepoint_prior_scale": 0.05,
+      "seasonality_prior_scale": 10.0,
+      "annual_fourier_order": 3
+    }
+  },
+  "source_sha256": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+  "data": {
+    "rows": 303126,
+    "territories": 2190,
+    "categories": [
+      "Все категории",
+      "Здоровье",
+      "Маркетплейсы",
+      "Общественное питание",
+      "Продовольствие",
+      "Транспорт"
+    ],
+    "months": 24,
+    "source_value_field": "value",
+    "series": 13140,
+    "complete_series": 12096,
+    "incomplete_series": 1044
+  },
+  "pilot_territory_ids": [
+    274,
+    787,
+    1016,
+    1355,
+    1407,
+    1876,
+    1921,
+    2034,
+    2190,
+    2880
+  ],
+  "metrics": [
+    {
+      "cohort": "full_available",
+      "model": "damped_trend",
+      "horizon": 1,
+      "n": 62550,
+      "mae": 983.5934112051759,
+      "r2_pooled": 0.9669969662469213,
+      "wape": 0.11126444156309812
+    },
+    {
+      "cohort": "full_available",
+      "model": "damped_trend",
+      "horizon": 3,
+      "n": 50058,
+      "mae": 1181.2273054194497,
+      "r2_pooled": 0.9673342761417706,
+      "wape": 0.12961865254468857
+    },
+    {
+      "cohort": "full_available",
+      "model": "damped_trend",
+      "horizon": 6,
+      "n": 37512,
+      "mae": 1107.4758669818382,
+      "r2_pooled": 0.9779369333099218,
+      "wape": 0.11959793013217929
+    },
+    {
+      "cohort": "full_available",
+      "model": "damped_trend",
+      "horizon": 12,
+      "n": 12456,
+      "mae": 784.3168137768517,
+      "r2_pooled": 0.9882839546617375,
+      "wape": 0.07459951062566775
+    },
+    {
+      "cohort": "full_available",
+      "model": "last_value",
+      "horizon": 1,
+      "n": 62550,
+      "mae": 943.0321982414068,
+      "r2_pooled": 0.9701419041516798,
+      "wape": 0.10667614251785953
+    },
+    {
+      "cohort": "full_available",
+      "model": "last_value",
+      "horizon": 3,
+      "n": 50058,
+      "mae": 948.8711494666187,
+      "r2_pooled": 0.9739873960699575,
+      "wape": 0.10412170398373842
+    },
+    {
+      "cohort": "full_available",
+      "model": "last_value",
+      "horizon": 6,
+      "n": 37512,
+      "mae": 991.8381851140969,
+      "r2_pooled": 0.9759374964334373,
+      "wape": 0.10711004862704478
+    },
+    {
+      "cohort": "full_available",
+      "model": "last_value",
+      "horizon": 12,
+      "n": 12456,
+      "mae": 1402.8293994861915,
+      "r2_pooled": 0.9695725235440456,
+      "wape": 0.13342871764922232
+    },
+    {
+      "cohort": "full_available",
+      "model": "seasonal_naive",
+      "horizon": 1,
+      "n": 62550,
+      "mae": 1275.9608153477218,
+      "r2_pooled": 0.966944653739699,
+      "wape": 0.1443371478079626
+    },
+    {
+      "cohort": "full_available",
+      "model": "seasonal_naive",
+      "horizon": 3,
+      "n": 50058,
+      "mae": 1302.9209916496864,
+      "r2_pooled": 0.9671960665050144,
+      "wape": 0.14297236656737466
+    },
+    {
+      "cohort": "full_available",
+      "model": "seasonal_naive",
+      "horizon": 6,
+      "n": 37512,
+      "mae": 1325.4417786308381,
+      "r2_pooled": 0.9675389938774036,
+      "wape": 0.1431363860478253
+    },
+    {
+      "cohort": "full_available",
+      "model": "seasonal_naive",
+      "horizon": 12,
+      "n": 12456,
+      "mae": 1402.8293994861915,
+      "r2_pooled": 0.9695725235440456,
+      "wape": 0.13342871764922232
+    },
+    {
+      "cohort": "full_available",
+      "model": "seasonal_scaled",
+      "horizon": 1,
+      "n": 62550,
+      "mae": 543.9629138811624,
+      "r2_pooled": 0.9924969619596735,
+      "wape": 0.061533281083964095
+    },
+    {
+      "cohort": "full_available",
+      "model": "seasonal_scaled",
+      "horizon": 3,
+      "n": 50058,
+      "mae": 737.308001312729,
+      "r2_pooled": 0.9868420560638904,
+      "wape": 0.08090641758965877
+    },
+    {
+      "cohort": "full_available",
+      "model": "seasonal_scaled",
+      "horizon": 6,
+      "n": 37512,
+      "mae": 938.6846641640923,
+      "r2_pooled": 0.9814053070065918,
+      "wape": 0.10136992256706785
+    },
+    {
+      "cohort": "full_available",
+      "model": "seasonal_scaled",
+      "horizon": 12,
+      "n": 12456,
+      "mae": 1402.8293994861915,
+      "r2_pooled": 0.9695725235440456,
+      "wape": 0.13342871764922232
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "damped_trend",
+      "horizon": 1,
+      "n": 300,
+      "mae": 950.6435999999999,
+      "r2_pooled": 0.9687668602867987,
+      "wape": 0.10805919908458148
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "damped_trend",
+      "horizon": 3,
+      "n": 240,
+      "mae": 1129.6561152380955,
+      "r2_pooled": 0.9704340968337284,
+      "wape": 0.1245617384671315
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "damped_trend",
+      "horizon": 6,
+      "n": 180,
+      "mae": 1024.1921955555554,
+      "r2_pooled": 0.9830305458738181,
+      "wape": 0.11056271643454171
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "damped_trend",
+      "horizon": 12,
+      "n": 60,
+      "mae": 767.1091751703751,
+      "r2_pooled": 0.9872446308039015,
+      "wape": 0.07313777168153607
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "last_value",
+      "horizon": 1,
+      "n": 300,
+      "mae": 919.3766666666667,
+      "r2_pooled": 0.9715943600222692,
+      "wape": 0.10450510186683237
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "last_value",
+      "horizon": 3,
+      "n": 240,
+      "mae": 928.1041666666666,
+      "r2_pooled": 0.9763267472002856,
+      "wape": 0.10233757593940193
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "last_value",
+      "horizon": 6,
+      "n": 180,
+      "mae": 925.3777777777777,
+      "r2_pooled": 0.9801065815525846,
+      "wape": 0.09989558725720739
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "last_value",
+      "horizon": 12,
+      "n": 60,
+      "mae": 1426.2833333333333,
+      "r2_pooled": 0.9710254058536925,
+      "wape": 0.1359847961189424
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "prophet_annual3",
+      "horizon": 1,
+      "n": 300,
+      "mae": 1008.3299753616919,
+      "r2_pooled": 0.9552258277834671,
+      "wape": 0.11461638152359119
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "prophet_annual3",
+      "horizon": 3,
+      "n": 240,
+      "mae": 1067.3606047510445,
+      "r2_pooled": 0.9609878207036466,
+      "wape": 0.11769271259253691
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "prophet_annual3",
+      "horizon": 6,
+      "n": 180,
+      "mae": 1325.1395892671217,
+      "r2_pooled": 0.9513129396838464,
+      "wape": 0.14305033106101092
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "prophet_annual3",
+      "horizon": 12,
+      "n": 60,
+      "mae": 2433.6621552775005,
+      "r2_pooled": 0.9131155558126927,
+      "wape": 0.23203037171749197
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "prophet_default",
+      "horizon": 1,
+      "n": 300,
+      "mae": 751.4291855438199,
+      "r2_pooled": 0.9837738323972894,
+      "wape": 0.08541459276499054
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "prophet_default",
+      "horizon": 3,
+      "n": 240,
+      "mae": 681.8050739604143,
+      "r2_pooled": 0.9887869695878214,
+      "wape": 0.07517936136726044
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "prophet_default",
+      "horizon": 6,
+      "n": 180,
+      "mae": 802.7640629310393,
+      "r2_pooled": 0.9867589447063869,
+      "wape": 0.0866592967988211
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "prophet_default",
+      "horizon": 12,
+      "n": 60,
+      "mae": 668.8223157335158,
+      "r2_pooled": 0.9932527534901161,
+      "wape": 0.06376689968904337
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "seasonal_naive",
+      "horizon": 1,
+      "n": 300,
+      "mae": 1245.9966666666667,
+      "r2_pooled": 0.9704736166490714,
+      "wape": 0.14163183958957726
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "seasonal_naive",
+      "horizon": 3,
+      "n": 240,
+      "mae": 1295.05,
+      "r2_pooled": 0.9697182957382552,
+      "wape": 0.14279892546579
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "seasonal_naive",
+      "horizon": 6,
+      "n": 180,
+      "mae": 1350.6944444444443,
+      "r2_pooled": 0.9689086199885413,
+      "wape": 0.14580900684350262
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "seasonal_naive",
+      "horizon": 12,
+      "n": 60,
+      "mae": 1426.2833333333333,
+      "r2_pooled": 0.9710254058536925,
+      "wape": 0.1359847961189424
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "seasonal_scaled",
+      "horizon": 1,
+      "n": 300,
+      "mae": 459.8205955001809,
+      "r2_pooled": 0.9951276821281902,
+      "wape": 0.052267585110071596
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "seasonal_scaled",
+      "horizon": 3,
+      "n": 240,
+      "mae": 629.0601160640593,
+      "r2_pooled": 0.9908113690448878,
+      "wape": 0.06936342892346459
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "seasonal_scaled",
+      "horizon": 6,
+      "n": 180,
+      "mae": 868.3423104294304,
+      "r2_pooled": 0.9849645586593179,
+      "wape": 0.09373854346160776
+    },
+    {
+      "cohort": "paired_pilot",
+      "model": "seasonal_scaled",
+      "horizon": 12,
+      "n": 60,
+      "mae": 1426.2833333333333,
+      "r2_pooled": 0.9710254058536925,
+      "wape": 0.1359847961189424
+    }
+  ],
+  "failures": [],
+  "runtime_seconds": 236.019,
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "pyarrow": "25.0.1",
+    "prophet": "1.5.0"
+  },
+  "python": "3.12.14",
+  "limitations": [
+    "Pilot excludes incomplete series based on observed coverage; not a population estimate.",
+    "Only 24 months: horizon 12 has one forecast origin and no robust tuning split.",
+    "Overlapping evaluation targets are not independent observations.",
+    "Pooled R2 is dominated by between-series scale; not within-series skill.",
+    "Organizer Prophet configuration is unavailable; these are our reference implementations.",
+    "No structural-break detection, news or foundation model yet."
+  ]
+}

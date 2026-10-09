@@ -1,0 +1,5 @@
+{
+  "method": "multiscale",
+  "threshold": 5.0,
+  "calibration_mean_f1": 0.31059262936434767
+}

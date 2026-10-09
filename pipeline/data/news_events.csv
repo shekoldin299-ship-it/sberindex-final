@@ -1,0 +1,10 @@
+event_id,published_at,available_at,effective_date,rate,delta_pp,scope,source_url
+cbr_20221216,2022-12-16T13:30:00+03:00,2022-12-17,2022-12-19,7.5,0,RU,https://www.cbr.ru/press/pr/?file=16122022_133000Key.htm
+cbr_20230721,2023-07-21T13:30:00+03:00,2023-07-22,2023-07-24,8.5,1,RU,https://www.cbr.ru/press/pr/?file=21072023_133000Key.htm
+cbr_20230815,2023-08-15T10:30:00+03:00,2023-08-16,2023-08-15,12,3.5,RU,https://www.cbr.ru/press/pr/?file=15082023_103000Key.htm
+cbr_20230915,2023-09-15T13:30:00+03:00,2023-09-16,2023-09-18,13,1,RU,https://www.cbr.ru/press/pr/?file=15092023_133000key.htm
+cbr_20231027,2023-10-27T13:30:00+03:00,2023-10-28,2023-10-30,15,2,RU,https://cbr.ru/press/pr/?file=27102023_133000Key.htm
+cbr_20231215,2023-12-15T13:30:00+03:00,2023-12-16,2023-12-18,16,1,RU,https://www.cbr.ru/press/pr/?file=15122023_133000key.htm
+cbr_20240726,2024-07-26T13:30:00+03:00,2024-07-27,2024-07-29,18,2,RU,https://www.cbr.ru/press/pr/?file=26072024_133000Key.htm
+cbr_20240913,2024-09-13T13:30:00+03:00,2024-09-14,2024-09-16,19,1,RU,https://www.cbr.ru/press/pr/?file=13092024_133000key.htm
+cbr_20241025,2024-10-25T13:30:00+03:00,2024-10-26,2024-10-28,21,2,RU,https://www.cbr.ru/press/PR/?file=25102024_133000Key.htm

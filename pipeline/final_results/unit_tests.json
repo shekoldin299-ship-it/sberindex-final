@@ -1,0 +1,7 @@
+{
+  "tests": 20,
+  "failures": 0,
+  "errors": 0,
+  "status": "PASS",
+  "command": "OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python -m unittest -v"
+}

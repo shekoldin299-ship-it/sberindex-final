@@ -1,0 +1,9 @@
+{
+  "method": "cusum",
+  "thresholds": {
+    "cusum": 8.0,
+    "ewma": 4.0,
+    "window": 4.0
+  },
+  "selection": "maximum calibration F1, then lower null alarm rate; test not used"
+}

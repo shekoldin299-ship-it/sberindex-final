@@ -1,0 +1,7 @@
+{
+  "research/v5/model.py": "685110427932070a504d72827208a0783d16c91a96d2b173db673c10fb6e7353",
+  "research/v5/run.py": "a0c51e626677f688855ddd0fd75d4698c6500b20655032735be0ad9e49521b9c",
+  "research/v5/national_source.csv": "738d6a642c2948c6cd1bcfe5f39d83b36a45c4a77682f29576841f720e9135d1",
+  "pipeline/data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+  "research/v5/config.json": "4f907638e6a16e1f737e772c0a7fa11bb273991ac75647a574c1ed9f89cb0a9e"
+}

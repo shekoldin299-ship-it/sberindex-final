@@ -1,0 +1,50 @@
+[
+  {
+    "territory_id": 1673,
+    "name": "Орск",
+    "published_at": "2024-04-06",
+    "available_at": "2024-04-07",
+    "event_month": "2024-04",
+    "summary": "МЧС сообщает об эвакуации после размыва дамбы.",
+    "url": "https://56.mchs.gov.ru/deyatelnost/press-centr/novosti/5249015",
+    "region": "Оренбургская область",
+    "alarms": {
+      "cusum_v1": [],
+      "v2_multiscale": [],
+      "panel3_experimental": []
+    },
+    "relative_growth_change_apr_jun_vs_jan_mar": -0.9840593723454312
+  },
+  {
+    "territory_id": 1665,
+    "name": "Оренбург",
+    "published_at": "2024-04-17",
+    "available_at": "2024-04-18",
+    "event_month": "2024-04",
+    "summary": "МЧС сообщает о снижении уровня воды после прохождения паводковой волны.",
+    "url": "https://mchs.gov.ru/deyatelnost/press-centr/novosti/5257170",
+    "region": "Оренбургская область",
+    "alarms": {
+      "cusum_v1": [],
+      "v2_multiscale": [],
+      "panel3_experimental": []
+    },
+    "relative_growth_change_apr_jun_vs_jan_mar": -4.103926001472166
+  },
+  {
+    "territory_id": 1333,
+    "name": "Курган",
+    "published_at": "2024-04-17",
+    "available_at": "2024-04-18",
+    "event_month": "2024-04",
+    "summary": "МЧС сообщает о подходе паводковой волны к областному центру.",
+    "url": "https://mchs.gov.ru/deyatelnost/press-centr/novosti/5257170",
+    "region": "Курганская область",
+    "alarms": {
+      "cusum_v1": [],
+      "v2_multiscale": [],
+      "panel3_experimental": []
+    },
+    "relative_growth_change_apr_jun_vs_jan_mar": -1.9379526657485737
+  }
+]

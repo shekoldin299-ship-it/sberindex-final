@@ -1,0 +1,194 @@
+[
+  {
+    "horizon": 1,
+    "comparator": "v1",
+    "v2_mae": 347.5276251475232,
+    "comparator_mae": 439.7247612978234,
+    "change_pct": -20.967010335780365,
+    "difference_ci95": [
+      -119.20022505288836,
+      -66.29010892889619
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 1,
+    "comparator": "seasonal_scaled",
+    "v2_mae": 347.5276251475232,
+    "comparator_mae": 429.4894557267876,
+    "change_pct": -19.08354896409913,
+    "difference_ci95": [
+      -108.15567381508178,
+      -56.64091416504658
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 1,
+    "comparator": "prophet_default",
+    "v2_mae": 347.5276251475232,
+    "comparator_mae": 715.6382670125479,
+    "change_pct": -51.438088044356945,
+    "difference_ci95": [
+      -409.54107477539696,
+      -327.57524029741415
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 1,
+    "comparator": "without_foundation",
+    "v2_mae": 347.5276251475232,
+    "comparator_mae": 373.899072022279,
+    "change_pct": -7.053092357817992,
+    "difference_ci95": [
+      -36.81921079119349,
+      -16.961666316164855
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 3,
+    "comparator": "v1",
+    "v2_mae": 399.969139125698,
+    "comparator_mae": 568.3964903450833,
+    "change_pct": -29.63201815639821,
+    "difference_ci95": [
+      -207.662076963009,
+      -127.63712488542592
+    ],
+    "territories": 96
+  },
+  {
+    "horizon": 3,
+    "comparator": "seasonal_scaled",
+    "v2_mae": 399.969139125698,
+    "comparator_mae": 554.4318625366345,
+    "change_pct": -27.859640444226862,
+    "difference_ci95": [
+      -193.80292287264098,
+      -116.18598761974111
+    ],
+    "territories": 96
+  },
+  {
+    "horizon": 3,
+    "comparator": "prophet_default",
+    "v2_mae": 399.969139125698,
+    "comparator_mae": 969.1280305289788,
+    "change_pct": -58.72896804900143,
+    "difference_ci95": [
+      -626.736616029291,
+      -507.434143532554
+    ],
+    "territories": 96
+  },
+  {
+    "horizon": 3,
+    "comparator": "without_foundation",
+    "v2_mae": 399.969139125698,
+    "comparator_mae": 540.5601838319473,
+    "change_pct": -26.0083981231509,
+    "difference_ci95": [
+      -176.33388950638755,
+      -103.07966279577012
+    ],
+    "territories": 96
+  },
+  {
+    "horizon": 6,
+    "comparator": "v1",
+    "v2_mae": 443.0964503073978,
+    "comparator_mae": 568.7989941250893,
+    "change_pct": -22.09964242483298,
+    "difference_ci95": [
+      -171.48261067028776,
+      -78.92007104065046
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 6,
+    "comparator": "seasonal_scaled",
+    "v2_mae": 443.0964503073978,
+    "comparator_mae": 728.2212091659958,
+    "change_pct": -39.153591692988535,
+    "difference_ci95": [
+      -348.5191556188351,
+      -227.45810943202508
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 6,
+    "comparator": "prophet_default",
+    "v2_mae": 443.0964503073978,
+    "comparator_mae": 1131.5985912112087,
+    "change_pct": -60.843319022416885,
+    "difference_ci95": [
+      -777.0054848088713,
+      -589.8117767796632
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 6,
+    "comparator": "without_foundation",
+    "v2_mae": 443.0964503073978,
+    "comparator_mae": 627.8434752121509,
+    "change_pct": -29.425650213586486,
+    "difference_ci95": [
+      -219.25342891253146,
+      -150.03581038573785
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 12,
+    "comparator": "v1",
+    "v2_mae": 745.2164650733936,
+    "comparator_mae": 745.2164650733936,
+    "change_pct": 0.0,
+    "difference_ci95": [
+      0.0,
+      0.0
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 12,
+    "comparator": "seasonal_scaled",
+    "v2_mae": 745.2164650733936,
+    "comparator_mae": 1381.680701754386,
+    "change_pct": -46.06449492077608,
+    "difference_ci95": [
+      -723.2893530406747,
+      -554.2283774883828
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 12,
+    "comparator": "prophet_default",
+    "v2_mae": 745.2164650733936,
+    "comparator_mae": 811.7065782244056,
+    "change_pct": -8.191397597942107,
+    "difference_ci95": [
+      -182.0787300803098,
+      50.126922966462075
+    ],
+    "territories": 95
+  },
+  {
+    "horizon": 12,
+    "comparator": "without_foundation",
+    "v2_mae": 745.2164650733936,
+    "comparator_mae": 745.2164650733936,
+    "change_pct": 0.0,
+    "difference_ci95": [
+      0.0,
+      0.0
+    ],
+    "territories": 95
+  }
+]

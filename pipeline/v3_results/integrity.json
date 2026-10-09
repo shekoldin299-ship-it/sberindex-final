@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "pairs": 87786,
+  "territories": 2116,
+  "missing_history": [
+    {
+      "origin": 12,
+      "series_without_history": 174
+    },
+    {
+      "origin": 18,
+      "series_without_history": 96
+    },
+    {
+      "origin": 21,
+      "series_without_history": 36
+    },
+    {
+      "origin": 23,
+      "series_without_history": 24
+    }
+  ],
+  "checks": [
+    "source signature",
+    "unique keys",
+    "actual targets",
+    "MAE recalculation",
+    "tuning-only policy",
+    "finite forecasts",
+    "interval ordering",
+    "detector disjoint groups and TP/FP/FN"
+  ]
+}

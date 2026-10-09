@@ -1,0 +1,10 @@
+{
+  "v3": 383.6161127165643,
+  "online_mix": 426.8480336639422,
+  "safe_mix": 371.4406817558269,
+  "month_bootstrap_ci": [
+    -18.531025053289145,
+    -6.153250033474269
+  ],
+  "status": "second_design_iteration_after_run01_not_independent_confirmation"
+}

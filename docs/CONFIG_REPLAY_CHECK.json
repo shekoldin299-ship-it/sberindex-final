@@ -1,0 +1,7 @@
+{
+  "scope": "V5 default-config replay",
+  "pairs": 200352,
+  "exact_dataframe_equality": true,
+  "training_performed": false,
+  "note": "Source signatures updated for configurable packaging after exact replay. Saved forecast values unchanged."
+}

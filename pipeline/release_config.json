@@ -1,0 +1,8 @@
+{
+  "seed": 20261009,
+  "confirmation_territories": 100,
+  "origins": [12, 18, 21, 23],
+  "candidate": "pooled_ridge for h=1,3,6 when history has at least 18 months; damped_trend for h=12; seasonal_scaled during short-history warmup",
+  "model_selection_after_confirmation": false,
+  "interpretation": "additional territorial check of a candidate chosen after development results; not a new independent calendar test"
+}

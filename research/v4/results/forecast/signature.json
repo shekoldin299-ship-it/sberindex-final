@@ -1,0 +1,6 @@
+{
+  "pipeline/data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+  "research/v4/models.py": "f5de69d2582a7a9fe85b617c4baafd0220fa97c0006b07fc2438acb18b2751d1",
+  "research/v4/run.py": "507a24524fbc236065e650527723a072552e5af79ed0dff8d257deb7b40648f1",
+  "research/v4/PROTOCOL.md": "54dc87c557ea14963238c40a45430cc5361858ea2242989eaca947e9f08d27fd"
+}
