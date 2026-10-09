@@ -1,7 +1,6 @@
 {
   "date": "2026-10-09",
-  "parent_commit": "60c8aea0b3987dd79b0984cab033a13393cf41f1",
-  "scope": "Editorial descriptions and docstrings only. Forecast logic, protocols quantitative parameters and predictions unchanged. Original texts remain at parent commit.",
+  "scope": "Editorial descriptions and docstrings only. Forecast logic, protocols, quantitative parameters and predictions unchanged. Before and after checksums are retained for audit; the historical revision identifier is not a commit of this repository.",
   "changes": {
     "REPORT.md": {
       "before_sha256": "965e577c4031b906787f65260e576db2d8ade6afbd0f3362e4051780de606314",
@@ -49,5 +48,6 @@
       "after_sha256": "f5de69d2582a7a9fe85b617c4baafd0220fa97c0006b07fc2438acb18b2751d1",
       "executable_ast_unchanged": true
     }
-  }
+  },
+  "historical_revision_id": "60c8aea0b3987dd79b0984cab033a13393cf41f1"
 }
