@@ -1,6 +1,4 @@
 {
-  "base_commit": "edf02f89551362e4982834738774cd43db905410",
-  "base_tree": "efe4ca7299dd19178ad4653111395570e504f2b6",
   "files": {
     "pipeline/data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
     "pipeline/upgrade_v3.py": "65c57cd8b24a86782c9a4dc725a07db13542d80259fa4fdfe889ba083c9068f0",
