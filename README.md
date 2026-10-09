@@ -90,5 +90,5 @@ V4: [инструкция](research/v4/README.md). Затем выполняет
 | `docs/` | Пояснение метода и протокол воспроизводимости |
 
 Источники и лицензии: [SOURCES.md](SOURCES.md), [национальный ряд](research/v5/SOURCES.json).
-Параметры: [PARAMETERS.json](PARAMETERS.json). Происхождение поставки: [PROVENANCE.md](PROVENANCE.md).
+Параметры: [PARAMETERS.json](PARAMETERS.json).
 Промежуточные эксперименты не входят в комплект сдачи. Их ограничения и отрицательные результаты описаны в отчёте.
